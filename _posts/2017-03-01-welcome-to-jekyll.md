@@ -5,7 +5,9 @@ layout: post
 
 ![Me](../assets/SeniorPicture.png)
 
-# I'm a software engineer and entrepreneur hoping to make a large-scale impact in the world. I create and deploy streamlined code to solve problems of any kind.
+## I am a software engineer and entrepreneur hoping to make a large-scale impact in the world. 
+
+## I create and deploy streamlined code to solve problems of any kind.
 
 
 
