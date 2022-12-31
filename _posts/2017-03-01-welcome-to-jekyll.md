@@ -1,7 +1,9 @@
 ---
-title: "Welcome to Jekyll"
+title: "Hi, my name is Prajwal. I generate novel ideas and build new things"
 layout: post
 ---
+
+![Swiss Alps](https://user-images.githubusercontent.com/4943215/55412536-edbba180-5567-11e9-9c70-6d33bca3f8ed.jpg)
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
