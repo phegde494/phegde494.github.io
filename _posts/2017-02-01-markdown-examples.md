@@ -3,9 +3,7 @@ title:  "About Me"
 layout: post
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra, est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida. Duis ac tellus et risus vulputate vehicula. Donec lobortis risus a elit.
+I am currently a freshman at Northeastern University majoring in Computer Science seeking internships in software engineering and quantitative trading for Summer 2023. In the past, I've developed software at a **startup**, managed **infrastructure deployment** at a larger company, and cooked up **ML models** for a consulting firm. I hope to explore new opportunities and landscapes in the years to come!
 
 
 ## Heading Two (h2)
