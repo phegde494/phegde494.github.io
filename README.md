@@ -1,1 +1,1 @@
-## Hi, I'm Prajwal. This is my personal website!
+## Hi, my name is Prajwal. This is my personal website!
