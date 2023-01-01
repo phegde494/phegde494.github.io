@@ -19,8 +19,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {url: "https://drive.google.com/file/d/1Get6E_0Mhd_sHsMJi84th4-U3633wPVi/view?usp=sharing", title: "Resume"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:phegde494@gmail.com"}
-  - {title: Github, icon: github, url: "https://github.com/phegde494"}
+  - {title: Mail, url: "mailto:phegde494@gmail.com"}
+  - {title: GitHub, url: "https://github.com/phegde494"}
   - {title: Linkedin, url: "https://www.linkedin.com/in/prajwal-hegde-362068241/"}
 
 comments:
