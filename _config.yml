@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "../assets/PrajwalHegdeResume.pdf", title: "Resume"}
+  - {url: "https://drive.google.com/file/d/1Get6E_0Mhd_sHsMJi84th4-U3633wPVi/view?usp=sharing", title: "Resume"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:phegde494@gmail.com"}
